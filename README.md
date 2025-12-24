@@ -28,3 +28,8 @@ The project demonstrates the practical use of HTML for structure and CSS for sty
 
 ## Project Structure
 
+portfolio/
+│
+├── index.html
+├── style.css
+└── README.md
